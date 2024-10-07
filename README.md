@@ -6,8 +6,6 @@
 - **Mobile Development**, mostly using React Native, but Flutter has a special place in my ❤️
 - Small **DevOps** stuff. Docker and Kubernetes are my preferred ways to both develop locally and deploy apps
 
-Currently working at [Toptal](https://topt.al/3rcx7k). [Apply now!](https://topt.al/qMc2Wr).
-
 
 ### 👨🏽‍💻️ Most used techonologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
