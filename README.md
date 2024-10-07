@@ -25,11 +25,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### 📝 Currently Learning
-- GraphQL
-- Microservices
-- Monorepos and best practices
-
 <br />
 
 <!-- [![Maikuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikuh)](https://github.com/Maikuh) -->
