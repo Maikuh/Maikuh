@@ -2,12 +2,19 @@
 > #### My name's Miguel Araujo, a Software Engineer from the Dominican Republic 🇩🇴 🏖️ 🌞
 
 ### 🙋🏽‍♂️️ What I Do
-- **Full-stack Web Development**, primarily using React and Node.js (Nest.js ❤️)
-- **Mobile Development**, mostly using React Native, but Flutter has a special place in my ❤️
+- **Full-stack Web Development**, primarily using React.js and Node.js, althought needs usually steer me towards other technologies
+- **Mobile Development**, using React Native, althought Flutter has always seemed interesting to me
 - Small **DevOps** stuff. Docker and Kubernetes are my preferred ways to both develop locally and deploy apps
+- Pretty much anything related to the SDLC
+  * Analysis (e.g. information elicitation, planning, estimations, etc)
+  * Design (tech stack, architecture, possibly UI designs or mockups atleast)
+  * Implementation (spaguetti coding)
+  * Testing (I prefer leaving this to QAs or Test Engineers, but I do like anything before Integration Testing)
+  * Deployment (CI/CD, environment configs, release)
+  * Maintenance (bug fixing, package management such as updates, feature adds)
 
 
-### 👨🏽‍💻️ Most used techonologies
+### 👨🏽‍💻️ Most used techonologies (no particular order)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,14 +31,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br />
-
-<!-- [![Maikuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikuh)](https://github.com/Maikuh) -->
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikuh&layout=compact&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maikuh&show_icons=true&theme=github_dark" />
-</div>
 <br />
 
 > _"It works on my machine"_
